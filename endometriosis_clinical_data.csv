@@ -1,0 +1,101 @@
+Age,BMI,Cycle Length (days),Period Duration (days),CRP,TSH,Menstrual History,Pelvic Pain,Intercourse Pain,Fatigue,Infertility History,GI Issues,Urinary Symptoms,Endometriosis Detected,Endometriosis Stage
+26,34.4,36,6,0.1,1.06,Painful,Severe,No,Yes,Yes,Yes,Yes,No,
+39,28.3,36,3,3.64,2.77,Irregular,Severe,No,Yes,No,Yes,No,Yes,Stage I
+34,22.7,21,7,2.19,4.31,Painful,Severe,Yes,Yes,No,No,No,Yes,Stage II
+30,23.0,29,10,4.17,2.9,Painful,Severe,No,No,No,No,No,Yes,Stage I
+27,20.8,26,7,2.93,2.59,Regular,Severe,No,Yes,No,Yes,Yes,Yes,Stage III
+40,18.3,36,3,3.78,2.58,Painful,Severe,Yes,Yes,No,Yes,No,Yes,Stage III
+26,25.2,23,8,2.41,2.24,Painful,Mild,No,No,No,Yes,Yes,Yes,Stage II
+45,24.7,40,7,3.66,3.68,Irregular,Mild,No,Yes,No,Yes,No,No,
+38,23.0,24,9,5.5,1.99,Irregular,Severe,No,No,Yes,Yes,No,Yes,Stage III
+42,18.2,39,5,1.89,1.14,Painful,Severe,No,No,No,No,No,Yes,Stage II
+30,21.4,23,6,2.84,0.92,Painful,Mild,No,Yes,Yes,No,No,No,
+30,30.1,39,3,2.27,2.58,Painful,Severe,No,No,Yes,Yes,Yes,Yes,Stage I
+43,31.4,40,6,5.39,3.56,Painful,Mild,No,No,No,No,No,Yes,Stage III
+40,28.3,27,9,2.35,2.74,Painful,Severe,No,No,Yes,Yes,No,Yes,Stage II
+23,33.7,40,7,1.9,2.18,Painful,None,Yes,Yes,No,Yes,No,Yes,Stage III
+27,29.1,29,7,2.13,2.96,Painful,Mild,Yes,Yes,No,No,Yes,Yes,Stage II
+43,33.6,21,10,2.8,2.69,Painful,Mild,No,No,No,No,No,No,
+22,32.5,28,9,1.81,3.33,Painful,Severe,No,Yes,No,Yes,No,No,
+41,25.6,27,3,2.45,3.83,Regular,Severe,No,Yes,No,No,No,Yes,Stage IV
+40,19.6,38,10,3.24,1.55,Painful,None,Yes,Yes,No,Yes,Yes,Yes,Stage I
+21,24.3,28,5,2.83,0.4,Painful,Severe,No,No,Yes,No,Yes,Yes,Stage II
+43,29.4,21,10,4.25,2.15,Irregular,None,Yes,Yes,No,No,No,Yes,Stage III
+31,29.3,31,4,2.52,1.48,Painful,Severe,No,No,Yes,No,No,Yes,Stage II
+25,28.1,38,3,2.69,3.33,Regular,None,No,No,No,Yes,Yes,No,
+21,22.7,30,4,3.41,1.78,Painful,None,No,No,Yes,No,No,Yes,Stage IV
+40,27.5,23,9,6.37,0.62,Painful,Severe,No,No,No,Yes,Yes,No,
+20,24.5,27,8,1.82,1.93,Painful,Severe,No,No,Yes,Yes,No,Yes,Stage III
+31,34.5,36,4,5.89,1.01,Irregular,Severe,No,No,No,No,Yes,Yes,Stage III
+45,32.4,36,5,1.22,4.09,Painful,Severe,No,Yes,No,Yes,No,Yes,Stage III
+41,30.3,40,10,3.34,2.97,Painful,Severe,Yes,No,No,No,Yes,Yes,Stage IV
+31,22.0,37,8,2.49,3.15,Regular,None,No,Yes,Yes,No,No,Yes,Stage IV
+44,22.4,22,10,1.78,3.04,Regular,Severe,No,Yes,No,Yes,No,Yes,Stage III
+36,18.7,21,4,4.05,3.34,Painful,Severe,No,No,No,No,No,Yes,Stage III
+29,30.1,36,10,3.9,3.63,Irregular,Severe,No,No,Yes,No,Yes,No,
+35,19.9,32,9,2.28,1.96,Regular,Severe,No,Yes,Yes,No,No,No,
+34,25.5,25,8,0.1,1.08,Painful,Severe,No,No,No,No,No,Yes,Stage I
+34,21.4,25,9,2.37,1.65,Irregular,Severe,Yes,No,No,No,Yes,Yes,Stage I
+38,33.2,29,4,3.21,2.45,Painful,Severe,Yes,No,No,No,No,Yes,Stage III
+31,26.1,29,9,3.0,0.4,Irregular,Severe,No,No,No,No,No,Yes,Stage I
+42,27.6,23,5,4.13,3.64,Painful,Mild,Yes,No,Yes,Yes,Yes,Yes,Stage II
+39,29.8,39,4,5.9,0.6,Irregular,Severe,No,No,Yes,No,No,Yes,Stage II
+44,20.4,36,4,3.62,3.1,Painful,Severe,No,No,Yes,No,No,Yes,Stage II
+22,28.3,36,4,3.85,2.33,Regular,Mild,Yes,No,No,Yes,No,No,
+24,27.2,23,3,3.22,2.79,Painful,Severe,Yes,No,Yes,No,Yes,Yes,Stage III
+38,21.5,40,10,4.76,2.03,Irregular,Severe,Yes,No,Yes,Yes,Yes,Yes,Stage IV
+26,34.0,21,3,3.8,2.72,Painful,Severe,No,Yes,Yes,Yes,No,Yes,Stage I
+40,28.2,40,3,4.12,2.03,Painful,Severe,No,Yes,No,No,No,Yes,Stage III
+28,29.8,31,5,5.71,1.94,Painful,None,Yes,Yes,No,Yes,No,Yes,Stage IV
+26,33.0,37,8,3.34,1.6,Painful,Severe,No,Yes,No,No,No,No,
+37,28.6,28,10,2.59,4.03,Regular,Severe,No,No,No,No,No,Yes,Stage I
+23,23.0,24,9,3.67,2.87,Painful,Mild,Yes,No,No,No,No,Yes,Stage IV
+44,19.8,26,7,4.7,2.71,Irregular,Severe,No,No,Yes,No,No,Yes,Stage II
+33,25.8,28,4,3.75,1.62,Irregular,Mild,No,Yes,No,Yes,Yes,No,
+37,21.7,40,9,4.59,2.27,Regular,Severe,Yes,No,No,No,No,Yes,Stage II
+45,25.1,23,4,2.0,1.51,Painful,Severe,Yes,No,No,No,No,Yes,Stage IV
+28,33.0,36,5,1.7,2.01,Painful,Severe,Yes,No,No,No,No,Yes,Stage II
+45,23.5,23,4,2.18,1.29,Irregular,Mild,Yes,No,No,Yes,No,No,
+40,20.1,38,3,1.1,4.09,Painful,Severe,No,No,No,No,Yes,Yes,Stage III
+21,24.1,34,10,3.17,1.74,Regular,None,No,Yes,No,No,Yes,Yes,Stage IV
+39,33.4,38,7,2.35,1.62,Irregular,Mild,Yes,No,No,No,No,No,
+34,22.6,22,6,4.85,1.17,Irregular,None,Yes,Yes,No,No,No,No,
+26,29.0,23,4,1.06,1.73,Regular,Mild,Yes,Yes,No,No,Yes,No,
+31,18.0,36,9,5.33,2.01,Irregular,Severe,Yes,No,Yes,No,No,Yes,Stage I
+27,24.0,29,3,1.53,2.45,Painful,Severe,No,Yes,No,No,No,Yes,Stage III
+34,23.2,24,6,1.14,1.85,Painful,Severe,Yes,No,Yes,Yes,No,Yes,Stage IV
+22,20.8,21,7,1.76,0.9,Regular,Mild,Yes,Yes,No,No,No,No,
+33,27.1,24,6,5.93,0.99,Irregular,Severe,Yes,No,No,No,No,Yes,Stage I
+36,26.2,21,3,2.94,3.18,Regular,Severe,No,Yes,No,No,No,Yes,Stage IV
+23,29.8,34,10,3.79,2.38,Painful,Severe,Yes,No,No,No,No,Yes,Stage III
+37,22.6,36,10,2.72,3.15,Regular,Severe,No,No,Yes,Yes,Yes,Yes,Stage III
+27,22.2,40,8,2.86,3.28,Painful,Severe,Yes,Yes,Yes,No,No,Yes,Stage III
+23,20.9,28,10,2.24,2.65,Painful,Mild,No,No,No,Yes,No,Yes,Stage II
+21,21.7,27,8,3.08,1.27,Painful,Mild,No,No,Yes,No,Yes,Yes,Stage IV
+25,27.5,23,6,3.74,2.69,Painful,Severe,Yes,Yes,Yes,Yes,No,Yes,Stage IV
+41,24.9,37,5,5.52,3.9,Regular,Severe,No,Yes,No,Yes,No,No,
+29,19.1,21,9,0.19,2.05,Painful,None,No,Yes,No,No,No,Yes,Stage III
+23,22.3,36,9,5.42,2.84,Painful,Severe,No,No,No,No,No,Yes,Stage III
+41,22.2,32,6,3.79,2.49,Painful,Severe,No,No,Yes,Yes,No,Yes,Stage III
+37,29.8,39,4,2.45,3.87,Regular,Severe,No,No,No,Yes,No,Yes,Stage II
+45,30.1,34,4,2.18,1.82,Regular,Severe,No,Yes,No,Yes,No,Yes,Stage III
+31,20.5,26,10,4.57,3.65,Regular,Severe,No,Yes,No,No,No,No,
+21,35.0,26,9,3.34,2.12,Painful,Mild,Yes,No,No,Yes,No,Yes,Stage III
+29,22.5,33,9,0.7,1.81,Painful,Mild,No,Yes,Yes,No,No,Yes,Stage III
+23,34.6,39,8,3.54,2.61,Painful,Severe,Yes,Yes,No,No,No,Yes,Stage III
+33,25.0,28,5,4.72,2.84,Regular,Severe,No,No,No,Yes,No,Yes,Stage II
+35,18.6,22,3,4.29,4.41,Painful,Mild,Yes,No,No,No,No,Yes,Stage I
+34,23.9,21,4,2.06,2.82,Irregular,Severe,Yes,No,No,No,No,No,
+27,28.8,35,9,0.99,2.69,Irregular,Severe,Yes,No,No,Yes,No,Yes,Stage I
+33,29.6,21,8,2.51,4.1,Regular,Severe,No,No,No,No,No,Yes,Stage II
+42,27.0,25,7,7.88,3.1,Painful,Severe,Yes,No,No,No,Yes,Yes,Stage III
+44,25.6,36,8,0.68,1.86,Regular,Severe,Yes,Yes,No,No,No,Yes,Stage III
+27,27.4,39,4,1.74,3.86,Painful,Severe,Yes,Yes,No,No,Yes,Yes,Stage III
+40,28.1,24,4,3.59,1.76,Painful,Severe,No,Yes,No,No,Yes,Yes,Stage II
+35,19.4,23,8,2.81,1.85,Regular,Severe,No,Yes,No,No,No,Yes,Stage III
+32,24.3,37,3,2.7,1.65,Painful,Severe,No,No,No,No,No,Yes,Stage II
+37,22.1,37,6,6.04,1.56,Regular,Mild,No,Yes,No,No,Yes,Yes,Stage II
+34,31.7,32,4,1.72,2.83,Irregular,Mild,No,Yes,No,No,No,No,
+40,26.0,34,8,2.98,2.24,Irregular,Severe,No,Yes,No,No,No,Yes,Stage III
+43,34.7,26,9,3.3,0.4,Irregular,None,Yes,Yes,No,Yes,No,No,
+45,24.8,23,8,1.79,2.23,Painful,Mild,Yes,No,No,Yes,No,No,
